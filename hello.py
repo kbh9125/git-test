@@ -1,1 +1,3 @@
-print("hello~ \n" * 3)
+print("hello~")
+print("hello~")
+print("hello~")
